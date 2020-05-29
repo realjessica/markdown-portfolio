@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Using the same Image of Yaktocat as the tutorial](https://octodex.github.com/images/yaktocat.png)
