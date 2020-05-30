@@ -1,1 +1,3 @@
-[Linking right back to my Github](https://github.com/realjessica)
+[Github](https://github.com/realjessica)
+
+[LinkedIn](https://linkedin.com/in/jlluo)
